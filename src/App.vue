@@ -1,6 +1,6 @@
 <template>
 <div>
-  <div class="flex justify-between items-center relative mt-5 p-5  w-full  z-20">
+  <div class="flex justify-between items-center relative mt-5 px-5 md:px-20  w-full  z-20">
     <div class="">
       <div class="px-2 py-1 border-[1px] border-white text-white judul text-sm" v-show="!isOpen">THIS INTERIOR</div>
     </div>
